@@ -4,7 +4,7 @@
 #
 Name     : mvn-jodd
 Version  : 3.5.2
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/org/jodd/jodd-core/3.5.2/jodd-core-3.5.2-sources.jar
 Source0  : https://repo1.maven.org/maven2/org/jodd/jodd-core/3.5.2/jodd-core-3.5.2-sources.jar
 Source1  : https://repo1.maven.org/maven2/org/jodd/jodd-core/3.5.2/jodd-core-3.5.2.jar
